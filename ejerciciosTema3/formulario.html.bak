@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		
 		<title>Formulario</title>
 		<style>
 		  body {
@@ -109,7 +110,7 @@
 		  </header>
 		  <article>
 			<h3>Rellena con sinceridad</h3>
-			<form method="post" action="mailto:ejemplo@gmail.com">
+			<form method="get" action="https://cancerbero01.github.io/disenoWeb/ejerciciosTema3/reOpinion.html">
 				<fieldset>
 					<legend>
 						Tus datos de contacto
@@ -153,7 +154,7 @@
 					<div>
 						<p>¿Qué deseas que te envíe?</p>
 						<p>
-							<input name="deseo" value="rico" id="rico" type="radio" checked>
+							<input name="deseo" value="rico" id="rico" checked="checked" type="radio">
 							<label for="rico">Ser rico</label><br>
 							<input name="deseo" value="famoso" id="famoso" type="radio">
 							<label for="famoso">Ser famoso</label><br>
@@ -167,7 +168,7 @@
 					<div>
 						<p>¿Alguna cosa mas?</p>
 						<p>
-							<input name="bello" id="bello" type="checkbox" checked>
+							<input name="bello" id="bello" checked="checked" type="checkbox">
 							<label for="bello">Belleza</label><br>
 							<input name="habil" id="habil" type="checkbox">
 							<label for="habil">Habilidad</label><br>
@@ -210,5 +211,4 @@
 		<footer>
 		  <p>Copyright Arturo Molina, 2018</p>
 		</footer>
-	</body>
-</html>
+</body></html>
