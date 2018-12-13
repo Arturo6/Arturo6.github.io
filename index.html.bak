@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
+
 		
 	    
 		<title>Principal</title>
@@ -110,6 +111,7 @@
 		<nav> 
 		  <a href="/ejerciciosTema2/nosotros.html">Nosotros</a>
 		  <a href="/ejerciciosTema2/nuestrosServicios.html">Nuestros servicios</a>
+      <a href="/ejerciciosTema3/formulario.html">Opina de nosotros</a>
 		</nav>
 		<aside>
 			<h2>Conócenos mejor</h2>
